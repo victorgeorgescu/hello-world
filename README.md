@@ -1,5 +1,4 @@
 # hello-world
-First repository
 
 Hi everyone, my name is Victor.
 
